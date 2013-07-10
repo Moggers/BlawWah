@@ -1,8 +1,5 @@
 #include <string.h>
 
-#define QUADTREE_BRANCH 1
-#define QUADTREE_CELL 0
-
 namespace map // Namespace for all things dealing with the map
 {
 	template <class T>
